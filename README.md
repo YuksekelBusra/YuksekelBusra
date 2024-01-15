@@ -4,8 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/yuksekelbusra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yuksekelbusra/" height="30" width="40" /></a>
-<a href="https://instagram.com/yuksekelbusra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuksekelbusra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuksekelbusra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuksekelbusra/" height="30" width="40" /></a>
+<a href="https://instagram.com/busrayuksekel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="busrayuksekel" height="30" width="40" /></a>
 <a href="https://medium.com/@yuksekelbusra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yuksekelbusra" height="30" width="40" /></a>
 </p>
 
