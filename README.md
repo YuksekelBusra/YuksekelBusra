@@ -1,6 +1,6 @@
 [![MasterHead](https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/fullstack.png)
 <h1 align="center">Hi 👋, I'm Büşra YÜKSEKEL</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
